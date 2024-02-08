@@ -7,3 +7,5 @@ and payments. Online food order application was designed for increased significa
 simultaneously in order to prevent food overload.   
 All of these features are made by me, and the code is written in a variety of languages, such as Java, XML, and Kotlin. I have utilise Google cloud 
 platform Firebase for this backend work. A set of comprehensive development tools are featured in a software development kit (SDK). 
+Android Studio is the name of Google official Integrated Development Environment (IDE) for building Android applications. The User Interface (UI) layouts
+for this app are achieved using Extensible Markup Language (XML).
