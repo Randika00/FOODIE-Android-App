@@ -9,4 +9,4 @@ All of these features are made by me, and the code is written in a variety of la
 platform Firebase for this backend work. A set of comprehensive development tools are featured in a software development kit (SDK). 
 Android Studio is the name of Google official Integrated Development Environment (IDE) for building Android applications. The User Interface (UI) layouts
 for this app are achieved using Extensible Markup Language (XML). 
- 
+  
